@@ -14,6 +14,7 @@
     "@hookform/resolvers": "^3.3.2",
     "@phosphor-icons/react": "^2.0.15",
     "@types/styled-components": "^5.1.32",
+    "date-fns": "^2.30.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.48.2",
