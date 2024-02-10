@@ -12,4 +12,4 @@ Este é um aplicativo Pomodoro desenvolvido em React com TypeScript. Ele inclui 
 ## Instalação
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
-2. Clone este repositório para o seu ambiente local:
+2. Clone este repositório para o seu ambiente local
